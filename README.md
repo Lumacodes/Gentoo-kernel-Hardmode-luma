@@ -2,7 +2,7 @@
 
 This is a fully manual Gentoo kernel configuration tuned ONLY for AMD CPUs.  
 Intel support is completely removed. If you try to boot this config on an Intel CPU, **your system will not boot**.  
-This kernel is stripped aggressively — only hardware and features actually required for my machine are enabled.
+This kernel is stripped down aggressively — only the bear_minimum 
 
 ![AMD-only kernel config screenshot](https://github.com/Lumacodes/Gentoo-kernel-Hardmode-luma/blob/main/screenshot-2025-11-28_22-34-17.png)
 
