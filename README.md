@@ -1,3 +1,4 @@
+
 # Gentoo-kernel-unbloatedxLuma
 
 This is a fully manual Gentoo kernel configuration tuned ONLY for AMD CPUs.  
@@ -5,7 +6,10 @@ Intel support is completely removed. If you try to boot this config on an Intel 
 This kernel is stripped down aggressively — only the bear_minimum 
 
 ![AMD-only kernel config screenshot](https://github.com/Lumacodes/Gentoo-kernel-Hardmode-luma/blob/main/screenshot-2025-11-28_22-34-17.png)
+## ⚠️ IMPORTANT WARNING (READ BEFORE USING)
 
+**If you have an Intel CPU:  
+DO NOT USE THIS CONFIG.  
 ---
 
 ## ⚠️ IMPORTANT WARNING (READ BEFORE USING)
